@@ -1,0 +1,81 @@
+/* estilizando navbar */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: 	#D2691E;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+img.min {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.blabla {
+    float: left;
+}
+.endereco {
+    font-size: 30px;
+    margin-right: 26px;
+}
+.homee {
+	margin-left:89px;
+	font-size: 30px;
+}
+.home {
+    font-size: 30px;
+    margin-right: 20px;
+}
+.nome {
+  margin-left: 300px
+  margin-top:0;
+}
+
+	
+h1 { margin-left:55px; font-size:79px; }
+h4 {position:relative; top:10px; font-size: 20px;}
+h2 {color:#000;font-size:53px;}
+h3 {color:red;font-size:53px;}
+h1.index {margin-left: 77px;}
+h3.indexx{margin-left: 70px; margin-top: 20px;}
+h4{margin-left: 90px;}
+h3.index {margin-left: 65px;
+color: black;
+margin-top: 20px;
+}
+.miniator img {
+	margin-left:50px;
+	width:11%;
+	
+}
+#preview {
+	margin-top:20px;
+	justify-content: center;
+}
+#preview img {
+	width:22.6%;
+	
+}
